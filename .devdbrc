@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "/home/janewmwaura/phase3codechallenge/sqlalchemy-code-challenge-Janemwaura/lib/db/restaurants.db"
+  }
+]
