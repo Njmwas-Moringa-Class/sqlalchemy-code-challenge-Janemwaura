@@ -36,3 +36,6 @@ session.commit()
 
 # Close the session
 session.close()
+
+
+
